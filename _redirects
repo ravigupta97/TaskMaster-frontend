@@ -1,0 +1,6 @@
+# Redirect all /api/* calls to your backend
+/api/auth/*  https://smart-task-manager-backend.onrender.com/api/auth:splat  200
+
+# Optional: serve index.html on all other paths (for SPA routing)
+/*      /index.html   200
+
