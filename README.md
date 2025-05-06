@@ -6,8 +6,8 @@ TaskMaster Frontend is a responsive and user-friendly web interface that interac
 
 ## 🌐 Live Demo
 
-🟢 **Frontend**: [https://your-frontend-url.netlify.app](https://your-frontend-url.netlify.app)  
-🟢 **Backend API**: [https://smart-task-manager-backend.onrender.com](https://smart-task-manager-backend.onrender.com/))
+🟢 **Frontend**: [https://task-master-webapp.netlify.app/](https://task-master-webapp.netlify.app/)  
+🟢 **Backend API**: [https://smart-task-manager-backend.onrender.com](https://smart-task-manager-backend.onrender.com/)
 
 ---
 
